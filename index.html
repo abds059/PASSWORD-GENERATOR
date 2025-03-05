@@ -9,11 +9,21 @@
 <body>
     <h1>PASSWORD GENERATOR</h1>
     <div class="main">
-        <div class="box"></div>
+        <div class="box">
+            <div class="output gray">Password</div>
+            <div class="select">
+                <label for="">8</label>
+                <input type="radio" name="length" id="length-8">
+                <label for="">12</label>
+                <input type="radio" name="length" id="length-12">
+                <label for="">16</label>
+                <input type="radio" name="length" id="length-16">
+            </div>
+        </div>
     </div>
     <div class="btndiv">
-        <button id="copybtn" class="btn">Copy</button>
-        <button class="btn" id="download-btn" >Generate Password</button>
+        <button id="copybtn" class="btn gray">Copy</button>
+        <button class="btn gray" id="download-btn" >Generate Password</button>
     </div>
 </body>
 </html>
