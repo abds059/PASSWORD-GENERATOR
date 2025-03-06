@@ -58,7 +58,3 @@ This is a **simple and responsive Password Generator** built using **HTML, CSS, 
 ## License
 This project is **open-source** and free to use. Modify and enhance as needed!
 
----
-
-### **Need Help?**
-Feel free to reach out if you have any questions or suggestions! 🚀
