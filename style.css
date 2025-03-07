@@ -113,7 +113,7 @@ label{
     color: gray;
 }
 
-@media (max-width: 344px) {
+@media (max-width: 355px) {
     h1 {
         font-size: 22px;
     }
